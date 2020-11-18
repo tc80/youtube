@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/kkdai/youtube/v2"
-	ytdl "github.com/kkdai/youtube/v2/downloader"
 	"github.com/spf13/pflag"
+	"github.com/tc80/youtube/v2"
+	ytdl "github.com/tc80/youtube/v2/downloader"
 )
 
 var (

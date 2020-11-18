@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kkdai/youtube/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/tc80/youtube/v2"
 )
 
 var testDownloader = func() (dl Downloader) {
